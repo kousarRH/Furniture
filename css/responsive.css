@@ -92,5 +92,9 @@
         background: var(--darkblue);
         font-size: 12px;
         color: white;
-    }                          
+    }      
+    
+    .foot-pics{
+        flex-wrap: wrap;
+    }
 }
